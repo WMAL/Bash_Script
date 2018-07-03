@@ -1,4 +1,2 @@
 # Bash_Script
-Some Bash script for all pentester
-Remember that this SCRIPT are ONLY for TRAINING and LABORATORY, the Author don't RESPONDE of ANY RESPONSABILITIES
-Thanks for READ this and good fun!
+These scripts are intended only for the exclusive use of training and experimentation. The author is not responsible in any case for its use.
